@@ -1,0 +1,11 @@
+[
+  {
+    "Nombre": "Bros. Comedor",
+    "Tipo de Cocina": "Internacional, Contempor\u00e1nea, Argentina, Saludable",
+    "Ingredientes": "Almuerzos y Cenas",
+    "Precio minimo": "$3000",
+    "Precio Maximo": "$10000",
+    "Disponibilidad": "Martes a Domingo de 12:00 a 15:00 y 20:00 a 23:30 ",
+    "Id Ubicacion": "Calle 27 de Abril 568"
+  }
+]

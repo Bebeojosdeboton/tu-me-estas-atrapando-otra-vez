@@ -1,0 +1,11 @@
+[
+  {
+    "Nombre": "Starbucks",
+    "Tipo de Cocina": "Estadounidense",
+    "Ingredientes": "Desayuno, Brunch",
+    "Precio minimo": "$3000",
+    "Precio Maximo": "$7000",
+    "Disponibilidad": " Lunes a Domingo de 07:00-21:00 ",
+    "Id Ubicacion": "San lorenzo 25"
+  }
+]

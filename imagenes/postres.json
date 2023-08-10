@@ -1,0 +1,29 @@
+[
+  {
+    "Nombre": " Creambury",
+    "Tipo de Cocina": "Caf\u00e9, Argentina, Sudamericana",
+    "Ingredientes": "Desayuno, Almuerzo",
+    "Precio minimo": "$2000",
+    "Precio Maximo": "$7000",
+    "Disponibilidad": "Lunes a Domingo 8 a 23:30 hs",
+    "Id Ubicacion": "Rondeau 390"
+  },
+  {
+    "Nombre": "Maria Antonieta Universodeli",
+    "Tipo de Cocina": "Caf\u00e9, Delicatessen",
+    "Ingredientes": "Desayuno, Brunch, Almuerzo",
+    "Precio minimo": "$4000",
+    "Precio Maximo": "$7000",
+    "Disponibilidad": "Lunes a Sabado 08:30 a 21:00,  Domingos de 16:00 a 21:00",
+    "Id Ubicacion": "Avenida Luis J de Tejeda 4575 Cerro de Las Rosas"
+  },
+  {
+    "Nombre": "Wollen ",
+    "Tipo de Cocina": "Caf\u00e9, Argentina",
+    "Ingredientes": "Helados,Postres",
+    "Precio minimo": "$1000",
+    "Precio Maximo": "$6000",
+    "Disponibilidad": " Lunes a Domingo de 17:00-22:00 ",
+    "Id Ubicacion": "27 de Abril 72"
+  }
+]

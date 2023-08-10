@@ -1,0 +1,80 @@
+Lugares_de_comida=
+[
+    {
+        "Nombre": "Bonafide Colón y Cañada",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/bonafide.jpg"
+        "IdUbicacion": 1
+    },
+    
+    {
+        "Nombre": "Lapana",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/lapana.jpg"
+        "IdUbicacion": 2
+    },
+
+    {   "Nombre": "Starbucks",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/starbucks.jpg"
+        "IdUbicacion": 3
+        
+    },
+
+    {   "Nombre": "Caseratto",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/caseratto.jpg"
+        "IdUbicacion": 4
+        
+    },
+    {
+        "Nombre": "Bros. Comedor",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/bros.jpg"
+        "IdUbicacion": 5
+    },
+    
+    {
+        "Nombre": "Santa Calma",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/santacalma.jpg"
+        "IdUbicacion": 6
+    },
+
+    {   "Nombre": "DIMETRO",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/dimetro.jpg"
+        "IdUbicacion": 7
+    },
+
+    {   "Nombre": "IL PANINO",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/ilpanino.jpg"
+        "IdUbicacion": 8
+    },
+
+    {   "Nombre": "Mostaza",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/mostaza.jpg"
+        "IdUbicacion": 9
+    },
+    {   "Nombre": "Antares",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/antares.jpg"
+        "IdUbicacion": 10
+
+    },
+    
+    {   "Nombre": "Canario Negro",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/canario.jpg"
+        "IdUbicacion": 11
+   
+    },
+
+    {   "Nombre": "VISIONAIRE",
+        "Imagen":"C:/Users/shirl/Downloads/PYTHON/Tkinter/visionaire.jpg"
+        "IdUbicacion": 12
+    },
+
+]
+# Convertir los datos en una cadena JSON
+json_data = json.dumps(lugaresdecomida, indent=4)
+
+# Especificar el nombre del archivo donde se guardará el JSON
+archivo_json = "lugaresdecomida.json"
+
+# Escribir la cadena JSON en el archivo
+with open(archivo_json, 'w') as archivo:
+    archivo.write(json_data)
+
+print("Archivo JSON creado exitosamente.")

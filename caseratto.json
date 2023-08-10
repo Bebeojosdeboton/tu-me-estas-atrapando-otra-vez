@@ -1,0 +1,11 @@
+[
+  {
+    "Nombre": "Caseratto",
+    "Tipo de Cocina": "Sudamericana",
+    "Ingredientes": "Desayuno,Helados, Bebidas",
+    "Precio minimo": "$3000",
+    "Precio Maximo": "$8000",
+    "Disponibilidad": "Lunes a Domingo de 8:00 a 01:00 am",
+    "Id Ubicacion": "Jos\u00e9 Manuel Estrada 122"
+  }
+]

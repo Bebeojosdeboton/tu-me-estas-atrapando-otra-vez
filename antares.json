@@ -1,0 +1,11 @@
+[
+  {
+    "Nombre": "Antares",
+    "Tipo de Cocina": "Bar, Comida r\u00e1pida, Pub, Argentina",
+    "Ingredientes": "Almuerzo, Cena, Brunch, Bebidas",
+    "Precio minimo": "$2000",
+    "Precio Maximo": "$9000",
+    "Disponibilidad": "Lunes a Domingo de 16:00 a 04:00 am",
+    "Id Ubicacion": "Calle San Lorenzo 79"
+  }
+]

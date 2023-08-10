@@ -1,0 +1,11 @@
+[
+  {
+    "Nombre": "Canario Negro",
+    "Tipo de Cocina": "Sudamericana",
+    "Ingredientes": "Cena,Bebidas",
+    "Precio minimo": "$6000",
+    "Precio Maximo": "$10000",
+    "Disponibilidad": "",
+    "Id Ubicacion": "Rondeau 155"
+  }
+]

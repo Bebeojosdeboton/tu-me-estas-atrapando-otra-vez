@@ -1,0 +1,77 @@
+#direcciones
+
+[
+    {
+        "id":1
+        "latitud":-31.40910986736751,
+        "longitud":-64.19063178096815,
+        "direccion":"Av. Figueroa Alcorta 192"
+    },
+    {
+        "id":2
+        "latitud":-31.422690268258346, 
+        "longitud":-64.18777159115075,
+        "direccion":"Hipolito Yrigoyen 198"
+    },
+    {
+        "id":3
+        "latitud":-31.42298136715757,
+        "longitud":-64.18695976231498,
+        "direccion":"San lorenzo 25"
+    },
+    {
+        "id":4
+        "latitud":-31.427733617918275,
+        "longitud":64.18724966231476,
+        "direccion":"José Manuel Estrada 122"
+    },
+    {
+        "id":5
+        "latitud":-31.41467868790532, 
+        "longitud":-64.19219274882269,
+        "direccion":"Calle 27 de Abril 568"
+    },
+    {
+        "id":6
+        "latitud":-31.431733429753294,
+        "longitud":-64.17294054697152,
+        "direccion":"Deodoro Roca 1137"
+    },
+    {
+        "id":7
+        "latitud":-31.419679249377644,
+        "longitud":-64.1882750911509,
+        "direccion":"Velez Sarsfield 361"
+    },
+    {
+        "id":8
+        "latitud":-31.419679249377644,
+        "longitud":-64.1882750911509,
+        "direccion":"Velez Sarsfield 361"
+    },
+    {
+        "id":9
+        "latitud":-31.419679249377644,
+        "longitud":-64.1882750911509,
+        "direccion":"Velez Sarsfield 361"
+    },
+    {
+        "id":10
+        "latitud":-31.4232083250408, 
+        "longitud":-64.1862066930011,
+        "direccion":"Calle San Lorenzo 79"
+    },
+    {
+        "id":11
+        "latitud":-31.422272565574623,
+        "longitud":-64.18452667110908,
+        "direccion":"Rondeau 155"
+    },
+    {
+        "id":12
+        "latitud":-31.422130666674406, 
+        "longitud":-64.18243248930038,
+        "direccion":"Chacabuco 436"
+    }
+]
+    

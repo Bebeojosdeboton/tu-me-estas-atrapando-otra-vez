@@ -1,0 +1,29 @@
+[
+  {
+    "Nombre": "Antares",
+    "Tipo de Cocina": "Bar, Comida r\u00e1pida, Pub, Argentina",
+    "Ingredientes": "Almuerzo, Cena, Brunch, Bebidas",
+    "Precio minimo": "$2000",
+    "Precio Maximo": "$9000",
+    "Disponibilidad": "Lunes a Domingo de 16:00 a 04:00 am",
+    "Id Ubicacion": "Calle San Lorenzo 79"
+  },
+  {
+    "Nombre": "Bonanza Bar",
+    "Tipo de Cocina": "Sudamericana",
+    "Ingredientes": "Cena,Bebidas",
+    "Precio minimo": "$4000",
+    "Precio Maximo": "$10000",
+    "Disponibilidad": "",
+    "Id Ubicacion": "Rondeau 150"
+  },
+  {
+    "Nombre": "VISIONAIRE",
+    "Tipo de Cocina": "Sudamericana",
+    "Ingredientes": "Almuerzo,Cena,Bebidas",
+    "Precio minimo": "$5000",
+    "Precio Maximo": "$10000",
+    "Disponibilidad": "Lunes a Domingo de 08:00 a 03:00",
+    "Id Ubicacion": "Chacabuco 436"
+  }
+]

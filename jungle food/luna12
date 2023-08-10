@@ -1,0 +1,11 @@
+from PIL import Image
+
+# Ruta de la imagen que deseas importar
+ruta_imagen = 'C:/Users/shirl/Downloads/PYTHON/Tkinter/fondojungle.jpg'
+ # Cambia esto por la ubicación de tu imagen
+
+# Abrir la imagen usando Pillow
+imagen = Image.open(ruta_imagen)
+
+# Mostrar la imagen (opcional)
+imagen.show()

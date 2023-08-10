@@ -1,0 +1,11 @@
+[
+  {
+    "Nombre": "Bonafide Col\u00f3n y Ca\u00f1ada",
+    "Tipo de Cocina": "Sudamericana",
+    "Ingredientes": "Cafe, Queso, Bebidas.",
+    "Precio minimo": "$2000",
+    "Precio Maximo": "$6000",
+    "Disponibilidad": "Lunes a viernes 7 a 22 hs\nS\u00e1bado y Domingo 7:30 a 22hs",
+    "Id Ubicacion": "Av. Figueroa Alcorta 192\nC\u00f3rdoba"
+  }
+]

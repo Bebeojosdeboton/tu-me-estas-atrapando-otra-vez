@@ -1,0 +1,11 @@
+[
+  {
+    "Nombre": "DIMETRO",
+    "Tipo de Cocina": "Sudamericana",
+    "Ingredientes": "Pizzas milanesas y lomos por metro.Servicio de cafeteria",
+    "Precio minimo": "$6000",
+    "Precio Maximo": "$10000",
+    "Disponibilidad": "Lunes a Domingo de 10:00 a 22:00",
+    "Id Ubicacion": "Velez Sarsfield 361, Patio Olmos"
+  }
+]
